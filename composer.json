@@ -2,6 +2,7 @@
     "name": "pluveto/flarum-bbcode-netease",
     "description": "netease BBcode Add-on.",
     "type": "flarum-extension",
+    "version": "0.1-beta",
     "license": "MIT",
     "authors": [
         {
