@@ -1,3 +1,4 @@
+<?php
 namespace Pluveto\netease;
 use Flarum\Extend;
 use s9e\TextFormatter\Configurator;
