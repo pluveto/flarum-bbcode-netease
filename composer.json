@@ -11,14 +11,15 @@
         }
     ],
     "require": {
-        "flarum/core": "^0.1.0-beta.10.9"
+        "flarum/core": "^0.1.0-beta.10.9 || ^1.0"
     },
     "autoload": {
         "psr-4": {"Pluveto\\netease\\": "src/"}
     },
     "extra": {
         "flarum-extension": {
-            "title": "netease BBcode",
+            "title": "Netease BBcode",
+            "category": "feature",
             "icon": {
                 "name": "fas fa-music",
                 "backgroundColor": "#033",
